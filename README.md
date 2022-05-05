@@ -1,6 +1,8 @@
 ## Fine-tuning reproduciblity of LIGO Black Hole signal tutorial, Part II
 
-** Binder link is currently down @ https://mybinder.org/. Once it is up and running, I will publish the binder link here. 
+** 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-s22/hw06-erinbhan/main?labpath=index.ipynb). 
 
 For now, here is the my notebook website. Enjoy! :D 
 
