@@ -4,7 +4,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-s22/hw06-erinbhan/main?labpath=index.ipynb). 
 
-For now, here is the my notebook website. Enjoy! :D 
+Here is the my notebook website. Enjoy! :D 
 
 https://ucb-stat-159-s22.github.io/hw06-erinbhan/
 
