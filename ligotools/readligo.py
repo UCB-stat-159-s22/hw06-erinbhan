@@ -232,7 +232,7 @@ def dq2segs(channel, gps_start):
     t0 = gps_start
     segList = [(int(seg.start+t0), int(seg.stop+t0)) for seg in segments]
     return SegmentList(segList)
-    
+
 def dq_channel_to_seglist(channel, fs=4096):
     """
     WARNING: 
